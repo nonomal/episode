@@ -1,3 +1,14 @@
+---
+num: 'S02E01'
+date: 2021-12-15
+title: '从商业到开源社区，聊聊 JuiceFS 的开发者招聘'
+link: https://audio.xmcdn.com/storages/bdc0-audiofreehighqps/81/82/GKwRIW4FjycIAkcMwQECsiEI.m4a
+guests:
+- Suave
+hosts:
+- linuxsuren
+---
+
 # S02E01 从商业到开源社区，聊聊 JuiceFS 的开发者招聘
 
 日前，Linux 基金会联合在线课程平台 edX 发布了《2021 年度开源工作岗位报告》，报告指出，新冠疫情加速企业数字化转型，导致企业对开源技术的使用加大。

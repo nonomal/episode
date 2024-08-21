@@ -1,3 +1,15 @@
+---
+num: 'S02E02'
+date: 2022-02-28
+title: '走进全员 Remote 公司 StreamNative，共建开源乐园'
+link: https://audio.xmcdn.com/storages/bf17-audiofreehighqps/0F/A8/GKwRIaIF9zidACAAAAEix6h6.mp3
+guests:
+- huangxiaobing1987
+- tuhaihe
+hosts:
+- linuxsuren
+---
+
 # S02E02 走进全员 Remote 公司 StreamNative，共建开源乐园
 
 参与开源除了可以“靠爱发电”，选择一家以开源为生的公司，把开源当作一份全职工作也是非常值得你考虑的选择。国内支持 remote（远程）工作的企业依然是少数，而 StreamNative 更是一家全员 remote 的开源商业化公司。热爱开源的你，本期节目不容错过！

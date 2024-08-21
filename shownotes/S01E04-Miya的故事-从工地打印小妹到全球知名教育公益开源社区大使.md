@@ -1,3 +1,15 @@
+---
+num: 'S01E04'
+date: 2021-12-20
+title: 'Miya 的故事｜从工地打印小妹，到全球知名教育公益开源社区大使'
+link: https://audio.xmcdn.com/storages/1fc2-audiofreehighqps/3B/57/GKwRIJEFla7kAfKF5QEEmeIk.m4a
+guests:
+- miyaliu666
+hosts:
+- linuxsuren
+- majinghe
+---
+
 # S01E04 Miya 的故事｜从工地打印小妹，到全球知名教育公益开源社区大使
 
 《人类简史》作者尤瓦尔·赫拉利认为，人类之所以能成为万物之王，区别于动物，在于我们能够虚构故事，能够编出没有实际存在的事物，并且我们会或者说能够相信这些不存在的事物。
